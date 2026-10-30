@@ -15,7 +15,7 @@
 
 ### `> about_me`
 
-I'm a **Computer Science student **, with a bachelor's degree in **Linguistics** and a professional background in business operations and systems coordination.
+I'm a **Computer Science student**, with a bachelor's degree in **Linguistics** and a professional background in business operations and systems coordination.
 
 I enjoy analytical thinking, understanding complex systems, and exploring how technology can solve real-world problems.
 
