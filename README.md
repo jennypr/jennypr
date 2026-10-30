@@ -64,8 +64,4 @@ My background brings together language, logic, business, and computing — diffe
 
 ---
 
-<div align="center">
 
-*"Stay curious. Keep learning. Build something meaningful."*
-
-</div>
