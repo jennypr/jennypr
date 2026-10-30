@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Jenny! 👋
 
-<!--
-**jennypr/jennypr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a bachelor's degree in Linguistics and a professional background in business operations and systems coordination.
 
-Here are some ideas to get you started:
+I'm interested in understanding how technology works, solving complex problems, and exploring different areas of computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Programming Languages:** C++, Java, SQL
+- **Testing Frameworks & Tools:** Selenium WebDriver, TestNG, Cucumber, JUnit
+- **API Testing:** Postman, REST Assured
+- **Build & Development Tools:** Maven, Git, GitHub, VS Code
+
+### 🌱 A Little More About Me
+- 🎓 Combining a background in linguistics with computer science
+- 🧠 Interested in analytical thinking, mathematics, and technology
+- 🌍 Multilingual: Albanian, Greek, English, and Russian
+- 🚀 Continuously learning and building projects
+
